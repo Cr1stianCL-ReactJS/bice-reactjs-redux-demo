@@ -1,0 +1,18 @@
+.styleCheckboxes {
+	padding-right: 50px;
+	margin-left: 20px;
+}
+
+.datepicker {
+	display: inline-block;
+	margin: 0 auto;
+}
+
+.labelIndicadores {
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+
+.separator {
+	margin-top: 40px;
+}
